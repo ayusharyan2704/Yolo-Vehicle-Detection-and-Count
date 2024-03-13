@@ -24,7 +24,7 @@ This repository contains code for detecting vehicles in a video using YOLO algor
 
 1. Clone the repository:
 
-git clone https://github.com/ayusharyan2704/yolo-vehicle-detection.git
+git clone https://github.com/ayusharyan2704/Yolo-Vehicle-Detection-and-Count.git
 
 2. Download pre-trained YOLO model weights from [Ultralytics YOLO](https://github.com/ultralytics/yolov5) and place them in the `weights/` directory.
 
