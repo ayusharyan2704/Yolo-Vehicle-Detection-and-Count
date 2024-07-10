@@ -17,6 +17,7 @@ This repository contains code for detecting vehicles in a video using YOLO algor
 
 ![image](https://github.com/ayusharyan2704/Yolo-Vehicle-Detection-and-Count/assets/152168191/3b3e9d14-4926-4cbd-b0e0-f87029421f55)
 
+## Final Output
 ![image](https://github.com/ayusharyan2704/Yolo-Vehicle-Detection-and-Count/assets/152168191/04f5a34f-2ce2-44ba-9774-7230a6f29b29)
 
 
