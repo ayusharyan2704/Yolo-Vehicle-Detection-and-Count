@@ -12,6 +12,15 @@ This repository contains code for detecting vehicles in a video using YOLO algor
 - Counting of vehicles crossing predefined lines
 - Visualization of vehicle counts
 
+## Detecting Vehicles 
+![image](https://github.com/ayusharyan2704/Yolo-Vehicle-Detection-and-Count/assets/152168191/4a177c78-bbf9-485b-b975-2a4ed20ee580)
+
+![image](https://github.com/ayusharyan2704/Yolo-Vehicle-Detection-and-Count/assets/152168191/3b3e9d14-4926-4cbd-b0e0-f87029421f55)
+
+![image](https://github.com/ayusharyan2704/Yolo-Vehicle-Detection-and-Count/assets/152168191/04f5a34f-2ce2-44ba-9774-7230a6f29b29)
+
+
+
 ## Requirements
 
 - Python 3.x
